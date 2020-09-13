@@ -1,4 +1,4 @@
-# Currency Rate Service
+# Validator Service
 
 Java REST application for the currency rate analyzing.
 
@@ -19,8 +19,6 @@ docker-compose up --build --force-recreate --no-deps [-d] [<service_name>..]
 ```
 ## Documentation
 f you want to access the api you can visit documentation on http://localhost:8080/swagger-ui.html#/
-
-http://localhost:8080/swagger-ui.html#/
 
 #### Requests examples ready to play with on localhost
 
